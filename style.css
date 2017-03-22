@@ -1,0 +1,9 @@
+#container{
+    width: 960px;
+    background-color: grey;
+
+}
+
+#box-1, box-2, box-3{
+    background-color: aquamarine;
+}
